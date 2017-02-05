@@ -8,6 +8,10 @@ namespace ChalLib
 {
     public class Challonge
     {
+        public string api_key { get; set; }
+
+        public string tournament_name { get; set; }
+
 
     }
 }
