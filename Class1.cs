@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ChalLib
 {
-    public class Class1
+    public class Challonge
     {
+
     }
 }
